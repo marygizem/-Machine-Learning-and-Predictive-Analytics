@@ -7,7 +7,5 @@ This repository contains the coursework and project deliverables for the Machine
 👥 Team Members
 
 - **Pamela Loraine Decastillo**  
-- **Rose Anne Alcantara**  
 - **Mary Grace Ramos**  
-- **Ryan Keneth Tavera**
 
